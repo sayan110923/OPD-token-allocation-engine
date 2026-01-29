@@ -184,16 +184,12 @@ This covers:
 =======
 # OPD-token-allocation-engine-images
 <p align="center">
-  <img src="<img width="734" height="647" alt="image" src="https://github.com/user-attachments/assets/7117c24c-d98d-47a4-9a79-faaf6ecd39d6" />
-" width="700">
-  <img src="<img width="743" height="855" alt="image" src="https://github.com/user-attachments/assets/599030e1-8695-42e8-88e0-dd1b29915c77" />
-" width="700">
-  <img src="<img width="647" height="728" alt="image" src="https://github.com/user-attachments/assets/07794f6f-d4b9-41e3-a1f6-947d0bef3b5d" />
-" width="700">
-  <img src="<img width="453" height="671" alt="image" src="https://github.com/user-attachments/assets/c2f91be4-8f47-476e-a41f-d1af130b28c5" />
-" width="700">
-  <img src="<img width="574" height="843" alt="image" src="https://github.com/user-attachments/assets/1bb7eb23-14e5-4cd9-a98f-0a7f203fdcfa" />
-" width="700">
+  <img src="images/OPD-home.png" width="700">
+  <img src="images/OPD-endpoint.png" width="700">
+  <img src="images/OPD-parameter.png" width="700">
+  <img src="images/OPD-response.png" width="700">
+  <img src="images/OPD-schemas.png" width="700">
 </p>
+
 
 
