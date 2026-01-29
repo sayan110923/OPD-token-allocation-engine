@@ -185,11 +185,12 @@ This covers:
 # OPD-token-allocation-engine-images
 <p align="center">
   <img src="images/OPD-home.png" width="700">
-  <img src="images/OPD-endpoint.png" width="700">
-  <img src="images/OPD-parameter.png" width="700">
-  <img src="images/OPD-response.png" width="700">
-  <img src="images/OPD-schemas.png" width="700">
+  <img src="images/OPD-endpoint.png" width="350">
+  <img src="images/OPD-parameter.png" width="350">
+  <img src="images/OPD-response.png" width="350">
+  <img src="images/OPD-schemas.png" width="350">
 </p>
+
 
 
 
