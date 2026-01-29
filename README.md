@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## OPD Token Allocation Engine
 
 This project implements a token allocation system for a hospital OPD (Outpatient
@@ -181,3 +182,7 @@ This covers:
 - Documentation of prioritisation, edge cases, and failure handling.
 - A concrete simulation of an OPD day with three doctors.
 
+=======
+# OPD-token-allocation-engine
+A FastAPI-based backend service that allocates OPD tokens across doctors and time slots, enforcing capacity limits, handling cancellations/emergencies, and prioritizing patients from different sources.
+>>>>>>> cb399a2bcb30fa7f0995105831eae3e2720b4d5f
