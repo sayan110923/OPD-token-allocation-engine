@@ -190,7 +190,3 @@ This covers:
   <img src="images/OPD-response.png" width="350">
   <img src="images/OPD-schemas.png" width="350">
 </p>
-
-
-
-
