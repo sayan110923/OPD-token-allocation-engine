@@ -182,7 +182,7 @@ This covers:
 - A concrete simulation of an OPD day with three doctors.
 
 =======
-# OPD-token-allocation-engine-images
+# OPD-token-allocation-engine-snapshorts
 <p align="center">
   <img src="images/OPD-home.png" width="700">
   <img src="images/OPD-endpoint.png" width="350">
